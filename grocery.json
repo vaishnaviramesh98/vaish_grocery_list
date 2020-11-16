@@ -1,0 +1,94 @@
+{
+    "grocery":[
+        {
+            "slno":"1",
+            "name":"Sugar",
+            "quantity":"1.5",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"Supplyco"
+
+        },
+        {
+            "slno":"2",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"India Gate"
+
+        },
+        {
+            "slno":"3",
+            "name":"Coconut oil",
+            "quantity":"2",
+            "unit":"l",
+            "department":"Food",
+            "notes":"Mill"
+
+        },
+        {
+            "slno":"4",
+            "name":"Chilli powder",
+            "quantity":"0.5",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"Kitchen Treasure"
+
+        },
+        {
+            "slno":"5",
+            "name":"Tea",
+            "quantity":"1",
+            "unit":"pack",
+            "department":"Food",
+            "notes":"Kanan devan"
+
+        },
+        {
+            "slno":"6",
+            "name":"Casserole",
+            "quantity":"2",
+            "unit":"set",
+            "department":"Crockery",
+            "notes":"Blue color"
+
+        },
+        {
+            "slno":"7",
+            "name":"Microwave oven",
+            "quantity":"1",
+            "unit":"piece",
+            "department":"Kitchen applicance",
+            "notes":"LG/Godrej"
+
+        },
+        {
+            "slno":"8",
+            "name":"Egg beater",
+            "quantity":"1",
+            "unit":"piece",
+            "department":"Kitchen applicance",
+            "notes":"iBell/impex"
+
+        },
+        {
+            "slno":"9",
+            "name":"Soap",
+            "quantity":"5",
+            "unit":"pack",
+            "department":"Skin care",
+            "notes":"Lux"
+
+        },
+        {
+            "slno":"10",
+            "name":"Shampoo",
+            "quantity":"1",
+            "unit":"pack",
+            "department":"Hair care",
+            "notes":"Clinic plus"
+
+        }
+    ]
+}
